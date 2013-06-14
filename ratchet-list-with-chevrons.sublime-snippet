@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<ul class="list">
+	<li>
+		<a href="#">List item 1 <span class="chevron"></span></a>
+	</li>
+	<li>
+		<a href="#">List item 2 <span class="chevron"></span></a>
+	</li>
+	<li>
+		<a href="#">List item 3 <span class="chevron"></span></a>
+	</li>
+</ul>
+]]></content>
+	<tabTrigger>rt:lwch</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet list with chevrons</description>
+</snippet>

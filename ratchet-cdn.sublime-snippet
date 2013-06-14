@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<script data-require="ratchet.js@${1:1.0.1}" data-semver="${1:1.0.1}" src="//cdnjs.cloudflare.com/ajax/libs/ratchet/${1:1.0.1}/ratchet.${2:min.}js"></script>
+<link data-require="ratchet-css@${1:1.0.1}" data-semver="${1:1.0.1}" rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/ratchet/${1:1.0.1}/ratchet.${2:min.}css" />
+]]></content>
+	<tabTrigger>rt:cdn</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet CDN script reference</description>
+</snippet>

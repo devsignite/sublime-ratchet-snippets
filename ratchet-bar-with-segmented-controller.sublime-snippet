@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<!-- HEADER -->
+<header class="bar-title">
+	<a class="button" href="#">Left</a>
+	<ul class="segmented-controller">
+		<li class="active" <a href="#">One</a></li>
+		<li><a href="#">Two</a></li>
+		<li><a href="#">Three</a></li>
+	</ul>
+	<a class="button" href="#">Right</a>
+</header>
+<!-- //HEADER -->
+]]></content>
+	<tabTrigger>rt:hbtsc</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet header bar title with segmented controller</description>
+</snippet>

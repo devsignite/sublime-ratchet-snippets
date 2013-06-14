@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<!-- HEADER -->
+<header class="bar-title">
+	<a class="button" href="#">Left</a>
+	<h1 class="title">Title</h1>
+	<a class="button" href="#">Right</a>
+</header>
+<!-- //HEADER -->
+]]></content>
+	<tabTrigger>rt:hbt</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet header bar title</description>
+</snippet>

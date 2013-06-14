@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="slider">
+	<ul>
+		<li><img src="http://lorempixel.com/400/400/sports/1/"> <span class="slide-text">← Slide me</span></li>
+		<li><img src="http://lorempixel.com/400/400/business/1/"></li>
+		<li><img src="http://lorempixel.com/400/400/food/1/"></li>
+	</ul>
+</div>
+]]></content>
+	<tabTrigger>rt:slider</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet slider</description>
+</snippet>

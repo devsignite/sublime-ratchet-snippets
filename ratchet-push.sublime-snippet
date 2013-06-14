@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<a href="two.html" data-transition="${1:slide-in|fade} ${2:data-ignore="push"}>Go to page 2</a>
+]]></content>
+	<tabTrigger>rt:push</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet push.js based navigation</description>
+</snippet>

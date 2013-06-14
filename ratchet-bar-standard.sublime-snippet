@@ -1,0 +1,24 @@
+<snippet>
+	<content><![CDATA[
+<!-- Segmented controller in standard bar fixed to top -->
+<nav class="bar-standard">
+	<ul class="segmented-controller">
+		<li class="active">
+			<a href="#">Thing one</a>
+		</li>
+		<li>
+			<a href="#">Thing two</a>
+		</li>
+		<li>
+			<a href="#">Thing three</a>
+		</li>
+	</ul>
+</nav>
+<div class="bar-standard bar-header-secondary">
+	<a class="button-block">Block level button</a>
+</div>
+]]></content>
+	<tabTrigger>rt:sb</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet standard bar</description>
+</snippet>

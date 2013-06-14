@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<a class="button">Count button<span class="count">1</span></a>
+<a class="button-main">Count button<span class="count">1</span></a>
+<a class="button-positive">Count button<span class="count">1</span></a>
+<a class="button-negative">Count button<span class="count">1</span></a>
+]]></content>
+	<tabTrigger>rt:bwc</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet buttons with counts</description>
+</snippet>

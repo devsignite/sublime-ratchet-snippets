@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+<div class="toggle active">
+	<div class="toggle-handle"></div>
+</div>
+<div class="toggle">
+	<div class="toggle-handle"></div>
+</div>
+]]></content>
+	<tabTrigger>rt:toggles</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet toggles</description>
+</snippet>

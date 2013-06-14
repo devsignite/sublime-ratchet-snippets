@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<!-- FORM -->
+<form>
+	<div class="input-group">
+		<div class="input-row">
+			<label>Full name</label>
+			<input type="text" placeholder="Mister Ratchet">
+		</div>
+		<div class="input-row">
+			<label>Email</label>
+			<input type="email" placeholder="ratchetframework@gmail.com">
+		</div>
+		<div class="input-row">
+			<label>Username</label>
+			<input type="text" placeholder="goRatchet">
+		</div>
+	</div>
+</form>
+<!-- //FORM -->
+]]></content>
+	<tabTrigger>rt:form:ig</tabTrigger>
+	<scope>text.html.basic</scope>
+	<description>Ratchet form with input group and labels</description>
+</snippet>
